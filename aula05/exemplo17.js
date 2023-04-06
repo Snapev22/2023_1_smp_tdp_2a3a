@@ -17,4 +17,4 @@ class livro{
 var obj_livro1 = new livro ("Use a cabeça java", 200)
 obj_livro1.calcularDesconto(30)
 console.log("Nome do livro: "+ obj_livro1.nome + " custa" + 
-obj_livro1.preco +" reais " )
+obj_livro1.preco +" reais " )   
